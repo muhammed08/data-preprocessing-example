@@ -19,3 +19,5 @@ Program contains:
 
 6) Random tree regression
 
+To run the program: python main.py
+
